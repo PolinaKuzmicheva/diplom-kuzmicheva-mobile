@@ -156,7 +156,7 @@
 
 .feedback-field {
   border: none;
-  background-color: #f4f7f6
+  background-color: #f4f7f6;
 }
 
 .send-button {
@@ -736,7 +736,7 @@
 
 .themes-list {
   list-style-type: none;
-  margin-top: 20px
+  margin-top: 20px;
 }
 
 .themes-title::after {
