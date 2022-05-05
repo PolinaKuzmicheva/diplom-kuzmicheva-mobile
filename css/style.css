@@ -27,7 +27,7 @@
   position: fixed;
   z-index: 2;
   background-color: rgba(0, 0, 0, 0.6);
-  display: none;
+  /* display: none; */
 }
 
 .popup__close {
@@ -729,10 +729,6 @@
   margin-top: 57px;
 }
 
-.themes-container {
-  padding-top: 10px;
-  margin-top: 20px;
-}
 
 .themes-list {
   list-style-type: none;
